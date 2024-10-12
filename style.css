@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body {
+    background-color: #000B1D; 
+    width: 100%;
+    height: 100%;
+}
+.navbar{
+    width: 100%; 
+    height: 80px;
+    display: flex;
+    border: 1px solid #005ff7;
+}
+.icon{
+    width: 12%;
+}
+.navigasi {
+    width: 60%;
+    border: 1px solid white;
+}
+.bahasa {
+    width: 28%;
+    height: 30px;
+    border: 1px solid white;
+}
